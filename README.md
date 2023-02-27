@@ -1,1 +1,7 @@
-[![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisndungu)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/elvisndungu/elvisndungu/blob/main/elvis_banner%20(1).png" />
+
