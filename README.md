@@ -3,6 +3,9 @@
 </p align="center">
 <img src="https://github.com/elvisndungu/elvisndungu/blob/main/elvis_banner%20(1).png" />
 
+<p align="center">
+  I'm an 18 year old high school graduate enrolled at the ALX SE program 🎓 from Johannesburg, South Africa.
+</p> 
 
 
 
@@ -14,3 +17,4 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
